@@ -1,0 +1,95 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 1.75em;
+  line-height: 1.55em;
+  color: #999;
+  background: #000;
+}
+h1 {
+  color: #999;
+  border-bottom: 1px solid #888;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+.first {
+  background-image: url("../images/hero1.png");
+  background-size: cover;
+  background-position: center center;
+  border-color: #f00;
+  position: relative;
+  z-index: 10;
+}
+.header {
+  padding: 10px 0;
+  -webkit-box-shadow: 0px 5px 46px -12px rgba(0,0,0,0.68);
+  -moz-box-shadow: 0px 5px 46px -12px rgba(0,0,0,0.68);
+  box-shadow: 0px 5px 46px -12px rgba(0,0,0,0.68);
+  background-color: #000;
+}
+.headerbox {
+  padding: 30px 0 10px 0;
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #fff;
+  background-image: url("../images/85.png");
+  position: relative;
+  top: 22%;
+}
+.subhead {
+  font-size: 1em;
+  font-weight: 400;
+  color: #fff;
+  margin-top: 10px;
+}
+.claim {
+  font-size: 1em;
+  margin-top: 50px;
+  border: 1px solid #fff;
+  padding: 5px;
+}
+.box {
+  margin-top: 100px;
+}
+.boxs {
+  margin-top: 35px;
+}
+.textbox {
+  padding-right: 30px;
+}
+.textbox p {
+  text-align: justify;
+}
+.megabox {
+  height: 10000px;
+}
+.window {
+  height: 450px;
+  margin-top: 100px;
+}
+.second {
+  background-image: url("../images/montage.jpg");
+  background-size: cover;
+}
+.three {
+  background-image: url("../images/05.jpg");
+  background-size: cover;
+}
+.four {
+  background-image: url("../images/07.jpg");
+  background-size: cover;
+}
+td {
+  font-weight: 100;
+}
+.extra {
+  font-weight: 700;
+}
+.footer {
+  background-color: #333;
+  margin-top: 125px;
+  padding-top: 50px;
+  padding-bottom: 75px;
+}
